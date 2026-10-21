@@ -1,6 +1,3 @@
-# python-task-manager
-Task management software created using Python
-
 # Python Task Manager
 
 A command-line task management application built with Python that allows users to create, assign, manage, and track tasks.
